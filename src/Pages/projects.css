@@ -1,0 +1,42 @@
+.project {
+    background-image: linear-gradient(270deg, #2b1f42, #140f23);
+
+    padding: 7rem 9rem 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.project_title {
+    color: #fff;
+    font-size: 2.3rem;
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+.project_purple {
+    color: #cd5ff8;
+}
+
+.project_subtitle {
+    margin-top: .5rem;
+    text-align: center;
+}
+
+.project_cards {
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding-bottom: 10px;
+    padding-top: 50px;
+}
+
+.card {
+    background-color: #6a1b8a !important;
+    width: 30%;
+    min-width: 320px;
+}
+
