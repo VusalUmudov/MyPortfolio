@@ -1,7 +1,7 @@
 import './App.css';
 import Navbar from './Components/Navbar';
 import Main from './Pages/Main';
-import Footer from './Components/Footer';
+// import Footer from './Components/Footer';
 import MyWork from './Pages/MyWork';
 import About from './Pages/About';
 import Contact from './Pages/Contact';

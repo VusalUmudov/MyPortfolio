@@ -32,7 +32,6 @@ const Navbar = () => {
                 
                 <div ref={navRef} className='nav_container'>
 
-
                     <div className='nav_text'>
                         <ul className='nav_elements'>
                             <li> <Link activeClass='active' smooth spy to="home">
@@ -57,8 +56,6 @@ const Navbar = () => {
                             <FaTimes />
                         </button>
                     </div>
-
-
                 </div>
                 <button className='nav-btn' onClick={showNavbar}>
                     <FaBars />
